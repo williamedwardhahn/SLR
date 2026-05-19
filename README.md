@@ -3,7 +3,7 @@
 [QR Code Generator 
 ](https://williamedwardhahn.github.io/web/qr.html)
 
-
+---
 
 
 
