@@ -1,5 +1,14 @@
 # SLR
 
+[QR Code Generator 
+](https://williamedwardhahn.github.io/web/qr.html)
+
+
+
+
+
+
+
 
 echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.zshrc && source ~/.zshrc
 
