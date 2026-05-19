@@ -1,7 +1,6 @@
 # SLR
 
-[QR Code Generator 
-](https://williamedwardhahn.github.io/web/qr.html)
+[QR Code Generator](https://williamedwardhahn.github.io/web/qr.html)
 
 https://ryankstrom.github.io/kidsport/
 https://kylecurtin.github.io/Surf-Forecaster/
