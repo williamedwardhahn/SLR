@@ -13,9 +13,7 @@ https://ryankstrom.github.io/kidsport/
 
 
 
-echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.zshrc && source ~/.zshrc
 
 
-
-Must Watch !
+Richard Hamming:
 https://www.youtube.com/watch?v=AD4b-52jtos&list=PL2FF649D0C4407B30
